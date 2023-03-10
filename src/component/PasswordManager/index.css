@@ -1,0 +1,119 @@
+.app-container {
+  background-color: #9ba9eb;
+  min-height: 100vh;
+  background-size: cover;
+  padding: 25px;
+}
+.app-logo {
+  height: 40px;
+  margin-bottom: 20px;
+}
+.add-password-image-container {
+  display: flex;
+  background-color: #5763a5;
+  padding: 40px;
+  border-radius: 5px;
+  justify-content: space-between;
+}
+
+.add-password-container {
+  background-color: #454f84;
+  padding: 23px;
+  min-width: 18vw;
+  border-radius: 5px;
+}
+
+.heading {
+  font-size: 16px;
+  color: #ffffff;
+}
+
+.website-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.website-icon {
+  height: 28px;
+  background-color: #ffffff;
+  padding: 5px;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+
+.website-input {
+  outline: none;
+  padding: 6px;
+  border-width: 0px;
+  border-left-width: 1px;
+  border-color: #f8fafc;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+
+.password-manager-image {
+  height: 250px;
+  margin-left: 50px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 27px;
+}
+
+.your-password-container {
+  padding: 25px;
+  margin-top: 20px;
+  background-color: #5763a5;
+  border-radius: 5px;
+  height: 60vh;
+}
+
+.count-of-password {
+  color: #ffffff;
+  margin-left: 10px;
+  font-size: 20px;
+}
+.your-password-text-count-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.password-icon-search-icon-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.show-password-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.checkbox {
+  padding: 20px;
+  outline: none;
+  border-width: 0px;
+}
+
+.list-of-password {
+  display: flex;
+}
+
+.no-password-image {
+  height: 200px;
+}
+
+.no-password-container {
+  display: flex;
+  justify-content: center;
+}
+
+.no-password-text {
+  text-align: center;
+  color: #ffffff;
+}

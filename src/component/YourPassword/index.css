@@ -1,0 +1,40 @@
+.password-storage-container {
+  display: flex;
+  align-items: center;
+  border-style: solid;
+  border-width: 0.5px;
+  width: 15vw;
+  padding-left: 20px;
+  padding-right: 20;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-color: #c3caea;
+  border-radius: 2px;
+  margin-right: 20px;
+}
+
+.delete-button {
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+}
+
+.delete-icon {
+  height: 20px;
+  margin-left: 50px;
+}
+
+.name {
+  color: #ffffff;
+  margin: 2px;
+  margin-right: 20px;
+  font-size: 10px;
+}
+
+.first-letter-container {
+  margin-right: 30px;
+}
+
+.star-icon {
+  height: 10px;
+}
